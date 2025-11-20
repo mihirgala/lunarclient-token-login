@@ -38,7 +38,6 @@ This lets you restore your previous accounts if anything goes wrong.
 ---
 
 ## How to run
-
 - Close Lunar Client / Launcher.
 - Double-click `tokenlogin.exe`.
 - The program opens a console window and prompts:
