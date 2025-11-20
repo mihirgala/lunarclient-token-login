@@ -2,9 +2,9 @@
 
 > Lunar Client token login  
 > Version: **1.0.0**  
-> Author: **mihirgala** (github.com/mihiirgala)
+> Author: **mihirgala** (github.com/mihirgala)
 
-This README explains **only how to use the pre-built `tokenlogin.exe`**. The source code is not included with this release.
+This README explains **only how to use the pre-built `tokenlogin.exe`**.
 
 ---
 

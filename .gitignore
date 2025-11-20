@@ -1,11 +1,7 @@
 /node_modules
-main_copy.js
-main.js
+main_copy_old.js
 package-lock.json
 package.json
-rcedit.bat
-rcedit.exe
-test.js
-icon.ico
 .gitignore
 tokenlogin_mihir.exe
+.env
