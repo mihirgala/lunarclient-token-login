@@ -41,6 +41,7 @@ This lets you restore your previous accounts if anything goes wrong.
 ---
 
 ## How to run
+<<<<<<< HEAD
 - Close **Lunar Client** and **Lunar Launcher** completely.  
 - Double-click **`tokenlogin.exe`**.  
 - A console window will open and prompt you for your **access token**.  
@@ -48,3 +49,10 @@ This lets you restore your previous accounts if anything goes wrong.
 - The program will fetch your Minecraft profile, add it to Lunar Client, and display success or error messages.
 
 ---
+=======
+- Close Lunar Client / Launcher.
+- Double-click `tokenlogin.exe`.
+- The program opens a console window and prompts:
+- Paste the access token and press Enter.
+- The program will fetch the Minecraft profile, add it to Lunar Client, and print success/failure messages.
+>>>>>>> 715f2c3752e597adc813bf26420e7377063b6584
